@@ -1,7 +1,10 @@
 namespace DesafioProjetoHospedagem.Models;
+using System.Collections.Generic;
 
 public class Pessoa
 {
+    
+
     public Pessoa() { }
 
     public Pessoa(string nome)
